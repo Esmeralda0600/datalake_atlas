@@ -12,5 +12,6 @@ dependencies = [
     "netcdf4>=1.7.4",
     "notebook>=7.6.0",
     "pandas>=3.0.3",
+    "watchdog>=6.0.0",
     "xarray>=2026.4.0",
 ]
