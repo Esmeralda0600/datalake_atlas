@@ -6,12 +6,14 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "dask>=2026.6.0",
+    "duckdb>=1.5.4",
     "jupyter>=1.1.1",
     "matplotlib>=3.11.0",
     "nco>=1.1.2",
     "netcdf4>=1.7.4",
     "notebook>=7.6.0",
     "pandas>=3.0.3",
+    "pyarrow>=24.0.0",
     "watchdog>=6.0.0",
     "xarray>=2026.4.0",
 ]

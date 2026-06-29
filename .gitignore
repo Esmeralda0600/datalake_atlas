@@ -5,8 +5,8 @@ build/
 dist/
 wheels/
 *.egg-info
-datalake/raw/*.nc
-
+data/
+datalake/
 
 # Virtual environments
 .venv
